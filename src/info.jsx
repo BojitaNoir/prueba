@@ -1,3 +1,5 @@
+//Vamos a ver que pedo chavales
+
 import React, { useState, useEffect, useContext } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../src/assets/styles.css";
